@@ -2,7 +2,9 @@ CS50X 随堂作业习题集
 
 from caesar.c 
 
-# C语言中 int main(int argc,char *argv[])的两个参数详解
+# 如何理解int main(int argc,char *argv[])并灵活运用？
+
+### C语言中 int main(int argc,char *argv[])的两个参数详解
 
 - argc是命令行总的参数个数
 	-   argc记录了用户在运行程序的命令行中输入的参数的个数
