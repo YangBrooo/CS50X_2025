@@ -1,6 +1,6 @@
-CS50X 随堂作业习题集 lecture_3
+CS50X 随堂作业习题集 lecture_2
 
-题目描述链接 [Lecture_3 problem_set](https://cs50.harvard.edu/x/2025/psets/2/)
+题目描述链接 [Lecture_2 problem_set](https://cs50.harvard.edu/x/2025/psets/2/)
 
 from caesar.c 
 
